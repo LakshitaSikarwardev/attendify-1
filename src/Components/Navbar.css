@@ -28,3 +28,10 @@ body, ul {
     background-color: #ddd;
     color: black;
 }
+ 
+.paragraph{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
